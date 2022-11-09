@@ -1,0 +1,17 @@
+*{margin:0; 
+   padding: 0;
+   box-sizing: border-box;}
+@media screen {
+    display: block;
+    margin: 0auto;
+}
+h1 {
+    background-color: rgb(107, 107, 196);
+    border-color: rgb(107, 107, 196);
+    padding: 20px;
+    
+}
+
+li {
+    background-color: rgb(88, 21, 196);
+}
